@@ -1,0 +1,1 @@
+// discussion about history . the history in the browser console is a way where you can go forward and back of your total visits in the pages. to do this type history.back() and to go forward type history.forward() and also to know how many pages you visited. type history.go()
